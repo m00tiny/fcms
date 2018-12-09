@@ -5,6 +5,14 @@
   Installation
   ------------
 
+  -  Requirements:
+
+     a. php5+
+
+     b. either mariadb/mysqldb (probably postgresql *untested by m00tiny*)
+
+     c. PHP modules: mysqli , cURL ,
+
   1. Upload the familyconnections/ directory in FCMS_3.7.0.zip to your web host.
 
   2. Run the online installation script by visiting your website.
